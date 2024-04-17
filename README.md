@@ -6,8 +6,8 @@ For example:
 
 ![Biophysics Plot](plots/biophysics.png)
 
-The plot shows a decrease of cosine similarity between top 25% stemmed tokens of publications in each year, indicates that the semantic similarity between the corresponding words decreases over the years.
+The plot above shows a decrease of cosine similarity between top 25% stemmed tokens of publications in each year, indicates that the semantic similarity between the corresponding words decreases over the years.
 
 ![Comparison Plot](plots/comparison.png)
 
-The plot shows the contrast between the outlier Geophysics and a representative of other disciplines—Statistics.
+The plot above shows the contrast between the outlier Geophysics and a representative of other disciplines—Statistics.
